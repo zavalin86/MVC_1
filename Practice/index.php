@@ -14,11 +14,12 @@
 
 
 $names = array(
-  'american' =>  'Jessy',
+  'american' =>  'Jefri',
   'russian' => 'Андрей',
   'mexican' =>'Roman',
   'eglish' => 'Alex',
   'span' =>'Tom',
+  'latvian' => 'Inga'  
 );
 
 echo $names['span'];
